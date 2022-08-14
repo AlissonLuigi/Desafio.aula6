@@ -1,0 +1,12 @@
+[caminho / arquivo2]: existir ou será substituído)
+$ pwd: Exibe a pasta atualmente sendo trabalhada
+$ mv [caminho /pasta1] [caminho/ pasta2]: Renomear pasta1 como pasta2 (a pasta 2 não deve existir)
+$ mv [caminho / pasta1] [caminho/ pasta2] 
+$ cp [caminho /arquivo1][caminho /arquivo2] $ cp [caminho / arquivo1] [caminho /arquivo2: Copiar um arquivo ou pasta
+$ cd ../: Suba um nível de pasta
+$ mkdir[Pasta]: Cria um novo diretório ou pasta
+$ touch [Nome do arquivo ]: Criar um novo arquivo
+$ nano [nome do arquivo]: Cria e/ou edita o arquivo e seu conteúdo
+$ rm [Nome do arquivo]: Excluir o arquivo
+$ rmdir [Nome da pasta]: Excluir uma pasta vazia
+$ clear: Limpar a tela do termina
